@@ -1,0 +1,3 @@
+-- 코드를 입력하세요
+SELECT MAX(p.PRICE) AS MAX_PRICE
+from PRODUCT p
